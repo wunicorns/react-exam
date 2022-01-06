@@ -97,7 +97,7 @@
         "lodash": "^4.17.15",
         "mapbox": "1.0.0-beta9",
         "morgan": "^1.9.1",
-        "parse-link-header": "1.0.1",
+        "parse-link-header": "2.0.0",
         "pm2": "^3.5.1",
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
